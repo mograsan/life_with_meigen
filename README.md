@@ -1,2 +1,2 @@
 # life_with_meigen
-you can get meigen whenever you open a terminal.
+このシェルスクリプトファイルを.bash_profileなどで実行すれば，ターミナルを開くたびに名言を見ることができ，頑張ろうという意欲が湧きます．
